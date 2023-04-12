@@ -1,0 +1,14 @@
+@media (max-width: 767.98px) { .border-sm-start-none { border-left: none !important; } }
+
+.card-body{
+    height: 100px;
+}
+.row{
+    height: 200px;
+}
+section{
+    height: 700px;
+}
+.justify-content-center{
+    height: 600px;
+}
